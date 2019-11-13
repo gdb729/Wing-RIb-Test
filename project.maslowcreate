@@ -10,6 +10,14 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 567,
+                    "y": 302,
+                    "uniqueID": 222253,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1230,
